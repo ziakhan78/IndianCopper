@@ -1,0 +1,12 @@
+
+
+.style-01{ color: #cc5f3c; font-weight: bold; font-size: larger;}
+.style-02{font-weight: 500;/* color: #333; */}
+.style-02 a{  font-weight: 500; color: #333;}
+.style-04 { font-size:15px;  }
+
+.list-group-item {
+  
+    padding: 0.35rem 1rem;
+
+}
